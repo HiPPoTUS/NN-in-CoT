@@ -1,0 +1,20 @@
+MuJoCo Pro Personal license activation key, number 51114, type 6.
+
+Issued to Mikhail Pashkeev <st040311@student.spbu.ru>.
+
+Expires April 4, 2019.
+
+This file activates MuJoCo Pro on a single computer with id:
+LINUX_0MCWD10ECEDXWZ2NA0_6D6XC3FCZE7W4W265
+
+Do not modify this file. Its entire content, including the
+plain text section, is used by the activation manager.
+
+0ca88f391c296e7e2d00d9bf99dc06b6e075857ec6b241c0e3170ea0fc943f66
+bace6eac8306145657afca2cd4a37ad7a9abbbca8415dbe1ae447f67ae7cc7d2
+3e2e2da32c85737a943a6391da567bf270e557171b6c1a28d90aa2db8c2d1dcb
+e2386c5ccf20799a40fc138470e43545c73b21a713c1d64fff8b73b632da98b0
+2475076bbe4c253b6de8ba0ae7c77a0d6dc0247462740bfd449e1e39e660c570
+33dd224a76ec6df0ef7d293613ecc946b503794283beb60dae775b80f574509c
+6481c4e59b3b2970f1aaad57e2d7ad855a6558c954c48b974468a1f5154815a2
+59e2e8f3113de90c277a34d1119c617fb2000ad9b9fe97974ec65632220de411
